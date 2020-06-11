@@ -13,4 +13,10 @@ description:      'A brazen two-column <a href="http://jekyllrb.com" target="_bl
 url:              http://hyde.getpoole.com
 baseurl:          /
 
-theme: jekyll-theme-minimal
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
