@@ -1,12 +1,4 @@
-### <center>Pengfei Zhang</center>
-
-###### <center> zpf0117b@mail.ustc.edu.cn</center>
-
-
-
 ### EDUCATION
-
-***
 
 **University of Science and Technology of China, School of Life Sciences**
 
@@ -21,11 +13,9 @@
   - Experiment of Pattern Recognition: Improved fuzzy C-means clustering algorithm, Training perceptron in fixed increment, Finite automaton for parsing
 - Honors/Awards: National Encouragement Scholarship, 2018
 
-
+***
 
 ### EXPERIENCE
-
-***
 
 **Precise Pervasive Lab** - *Research Assistant*
 
@@ -33,11 +23,9 @@
 - Laboratory English website construction
 - Learning the construction of QT project of *Object Identification through pressure distribution on a table surface*
 
-
+***
 
 ### PROJECTS
-
-***
 
 **course project** - *Fundamentals of compiling* - Minipy
 
@@ -48,11 +36,9 @@
 
 - Since Mar. 2020, uncomplete
 
-
+***
 
 ### SKILLS & OTHERS
-
-***
 
 **Languages**: Chinese(Native), English(Fluent), Japanese(Amateur)
 
