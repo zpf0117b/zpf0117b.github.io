@@ -7,7 +7,7 @@
 
 **University of Science and Technology of China, School of Computer Science**
 
-- Since Sep. 2018 | Overall GPA: 3.44/4.3
+- Since Sep. 2018 \| Overall GPA: 3.44/4.3
 - Representative Relavant Coursework:
   - Experiment of Operaton System: Dynamic memory allocation, FAT16 file system
   - Experiment of Pattern Recognition: Improved fuzzy C-means clustering algorithm, Training perceptron in fixed increment, Finite automaton for parsing
@@ -19,7 +19,7 @@
 
 **Precise Pervasive Lab** - *Research Assistant*
 
-- Nov. 2018 - Apr. 2019 | Exit due to physical health problems
+- Nov. 2018 - Apr. 2019 \| Exit due to physical health problems
 - Laboratory English website construction
 - Learning the construction of QT project of *Object Identification through pressure distribution on a table surface*
 
@@ -29,8 +29,8 @@
 
 **course project** - *Fundamentals of compiling* - Minipy
 
-- Tool: flex bison | C++ | VSCode | Ubuntu 18.04
-- Nov. 2019 - Dec. 2019 | Cooperate with <a href="github.com">Rui Wang</a>, <a href="github.com">Shisong Sun</a>
+- Tool: flex bison \| C++ \| VSCode \| Ubuntu 18.04
+- Nov. 2019 - Dec. 2019 \| Cooperate with <a href="github.com">Rui Wang</a>, <a href="github.com">Shisong Sun</a>
 
 **MIT 6.829 - Computer Networks**
 
@@ -44,6 +44,6 @@
 
 **Skills**: 
 
-- Python(OOP, Official, Flask, Pandas, Numpy, etc.)
+- Python(OOP, Official, Flask, Pandas, Numpy, Matplotlib, etc.)
 - Cpp(stl)
 - HTML/CSS/Javascript/Vue(Basic)
