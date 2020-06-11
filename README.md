@@ -17,11 +17,11 @@
 
 ### EXPERIENCE
 
-**Precise Pervasive Lab** - *Research Assistant*
+**Precise Pervasive Lab** - *Research Undergraduate Assistant*
 
 - Nov. 2018 - Apr. 2019 \| Exit due to physical health problems
 - Laboratory English website construction
-- Learning the construction of QT project of *Object Identification through pressure distribution on a table surface*
+- Learning the construction of *Object Identification through pressure distribution on a table surface*, a QT project
 
 ***
 
@@ -34,7 +34,7 @@
 
 **MIT 6.829 - Computer Networks**
 
-- Since Mar. 2020, uncomplete
+- Since Mar. 2020, not completed yet
 
 ***
 
