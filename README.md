@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+### <center>Pengfei Zhang</center>
 
-You can use the [editor on GitHub](https://github.com/zpf0117b/zpf0117b.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###### <center> zpf0117b@mail.ustc.edu.cn</center>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### EDUCATION
 
-```markdown
-Syntax highlighted code block
+***
 
-# Header 1
-## Header 2
-### Header 3
+**University of Science and Technology of China, School of Life Sciences**
 
-- Bulleted
-- List
+- Sep. 2017 - Jul. 2018
+- Honors/Awards: Third Prize of Outstanding Freshmen Scholarship at USTC, 2017
 
-1. Numbered
-2. List
+**University of Science and Technology of China, School of Computer Science**
 
-**Bold** and _Italic_ and `Code` text
+- Since Sep. 2018 | Overall GPA: 3.44/4.3
+- Representative Relavant Coursework:
+  - Experiment of Operaton System: Dynamic memory allocation, FAT16 file system
+  - Experiment of Pattern Recognition: Improved fuzzy C-means clustering algorithm, Training perceptron in fixed increment, Finite automaton for parsing
+- Honors/Awards: National Encouragement Scholarship, 2018
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### EXPERIENCE
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zpf0117b/zpf0117b.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+***
 
-### Support or Contact
+**Precise Pervasive Lab** - *Research Assistant*
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Nov. 2018 - Apr. 2019 | Exit due to physical health problems
+- Laboratory English website construction
+- Learning the construction of QT project of *Object Identification through pressure distribution on a table surface*
+
+
+
+### PROJECTS
+
+***
+
+**course project** - *Fundamentals of compiling* - Minipy
+
+- Tool: flex bison | C++ | VSCode | Ubuntu 18.04
+- Nov. 2019 - Dec. 2019 | Cooperate with <a href="github.com">Rui Wang</a>, <a href="github.com">Shisong Sun</a>
+
+**MIT 6.829 - Computer Networks**
+
+- Since Mar. 2020, uncomplete
+
+
+
+### SKILLS & OTHERS
+
+***
+
+**Languages**: Chinese(Native), English(Fluent), Japanese(Amateur)
+
+**Skills**: 
+
+- Python(OOP, Official, Flask, Pandas, Numpy, etc.)
+- Cpp(stl)
+- HTML/CSS/Javascript/Vue(Basic)
