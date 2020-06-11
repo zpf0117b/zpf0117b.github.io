@@ -30,7 +30,7 @@
 **course project** - *Fundamentals of compiling* - Minipy
 
 - Tool: flex bison \| C++ \| VSCode \| Ubuntu 18.04
-- Nov. 2019 - Dec. 2019 \| Cooperate with <a href="github.com">Rui Wang</a>, <a href="github.com">Shisong Sun</a>
+- Nov. 2019 - Dec. 2019 \| Cooperate with <a href="https://github.com/">Rui Wang</a>, <a href="https://github.com/">Shisong Sun</a>
 
 **MIT 6.829 - Computer Networks**
 
