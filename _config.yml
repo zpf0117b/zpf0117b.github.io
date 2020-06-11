@@ -7,10 +7,11 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            'Pengfei Zhang'
+tagline:          ''
+description:      '<p>Senior Undergraduate Student<br>School of Computer Science,University of Science and Technology of China,Hefei, Anhui.</p>
+                   <p><a href="mailto:service@test.com">zpf0117b@mail.ustc.edu.cn</a></p>'
+url:              http://zpf0117b.github.io
 baseurl:          /
 
 paginate:         5
