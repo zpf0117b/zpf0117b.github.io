@@ -8,7 +8,7 @@ relative_permalinks: false
 
 # Setup
 title:            'Pengfei Zhang'
-tagline:          ''
+tagline:          'A Jekyll theme'
 description:      '<p>Senior Undergraduate Student<br>School of Computer Science,University of Science and Technology of China,Hefei, Anhui.</p>
                    <p><a href="mailto:service@test.com">zpf0117b@mail.ustc.edu.cn</a></p>'
 url:              http://zpf0117b.github.io
