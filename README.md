@@ -8,9 +8,6 @@
 **University of Science and Technology of China, School of Computer Science**
 
 - Since Sep. 2018 \| Overall GPA: 3.44/4.3
-- Representative Relavant Coursework:
-  - Experiment of Operation System: Dynamic memory allocation, FAT16 file system
-  - Experiment of Pattern Recognition: Improved fuzzy C-means clustering algorithm, Training perceptron in fixed increment, Finite automaton for parsing
 - Honors/Awards: National Encouragement Scholarship, 2018
 
 ***
@@ -27,10 +24,10 @@
 
 ### PROJECTS
 
-**course project** - *Fundamentals of compiling* - Minipy
+**course project** - *Database* - <a href="https://github.com/zpf0117b/BankingManagementSystem">Banking Management Systen</a>
 
-- Tool: flex, bison \| C++ \| VSCode \| Ubuntu 18.04
-- Nov. 2019 - Dec. 2019 \| Cooperate with <a href="https://github.com/">Rui Wang</a>, <a href="https://github.com/">Shisong Sun</a>
+- Tool: Python \| flask, pandas-profiling, etc \| VSCode \| Bootstrap \| Windows 10
+- Jun. 2020
 
 **MIT 6.829 - Computer Networks**
 
@@ -44,6 +41,5 @@
 
 **Skills**: 
 
-- Python(OOP, Official, Flask, Pandas, Numpy, Matplotlib, etc.)
-- Cpp(stl)
+- Cpp(stl), Java, Python(OOP, Official, Flask, Pandas, Numpy, Matplotlib, etc.)
 - HTML/CSS/Javascript/Vue(Basic)
