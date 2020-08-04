@@ -20,18 +20,29 @@
 - Laboratory English website construction
 - Learning the construction of *Object Identification through pressure distribution on a table surface*, a DSP-PC Interaction QT project
 
+**Linli Xu's Laboratory** - *Laboratory of Semantic Computing and Data Mining*
+
+- Since Jun. 2020
+- Participating in big data analysis
+
 ***
 
 ### PROJECTS
 
-**course project** - *Database* - <a href="https://github.com/zpf0117b/BankingManagementSystem">Banking Management Systen</a>
+**Course Project** - *Database* - <a href="https://github.com/zpf0117b/BankingManagementSystem">Banking Management Systen</a>
 
-- Tool: Python \| flask, pandas-profiling, etc \| VSCode \| Bootstrap \| Windows 10
+- Tool: Python \| flask, pandas-profiling, etc \| VSCode \| Bootstrap 
 - Jun. 2020
 
-**MIT 6.829 - Computer Networks**
+**MIT Course Project**
 
-- Since Mar. 2020, not completed yet
+- **MIT 6.034 - Artificial Intelligence**
+
+  - May. 2020 - Jul. 2020
+
+- **MIT 6.829 - Computer Networks**
+
+  - Since Mar. 2020, not completed yet
 
 ***
 
@@ -41,5 +52,5 @@
 
 **Skills**: 
 
-- Cpp(stl), Java, Python(OOP, Official, Flask, Pandas, Numpy, Matplotlib, etc.)
-- HTML/CSS/Javascript/Vue(Basic)
+- Cpp, Java, Python
+- HTML/CSS/Javascript, Vue
