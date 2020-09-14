@@ -20,11 +20,6 @@
 - Laboratory English website construction
 - Learning the construction of *Object Identification through pressure distribution on a table surface*, a DSP-PC Interaction QT project
 
-**Linli Xu's Laboratory** - *Laboratory of Semantic Computing and Data Mining*
-
-- Since Jun. 2020
-- Participating in big data analysis
-
 ***
 
 ### PROJECTS
@@ -38,7 +33,7 @@
 
 - **MIT 6.034 - Artificial Intelligence**
 
-  - May. 2020 - Jul. 2020
+  - May. 2020 - Aug. 2020
 
 - **MIT 6.829 - Computer Networks**
 
@@ -53,4 +48,4 @@
 **Skills**: 
 
 - Cpp, Java, Python
-- HTML/CSS/Javascript, Vue
+- Web Frontend: Vue
