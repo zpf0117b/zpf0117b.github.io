@@ -13,7 +13,7 @@
 **Research Undergraduate Assistant** in **Precise Pervasive Lab**
 - From Nov. 2018 to Apr. 2019 as a sophomore\| Exit due to physical health problems
 - First project:  Textile pressure sensor application: Assisting book arrangement
-  - Bringing up the idea of monitoring the placement of books, collecting data, denoising, smoothing, marking, features computing, classifying with general mathine learning methods like kNN, presentation.
+   - Bringing up the idea of monitoring the placement of books, collecting data, denoising, smoothing, marking, features computing, classifying with general mathine learning methods such as kNN, presentation.
 - Group contribution: Laboratory English website construction
 - Join the construction of *Object Identification through pressure distribution on a table surface*, a DSP-PC Interaction QT project
   - Improve the performance of bluetooth transmission
@@ -45,5 +45,5 @@
 **Languages**: Chinese(Native), English(Fluent), Japanese(Amateur)
 
 **Programming Skills**: 
-- Cpp, Python
+- Cpp, Python 
 - Web Frontend: Vue
