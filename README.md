@@ -42,8 +42,8 @@
 
 ### Miscellaneous
 
-**Programming Skills**: Cpp, Python, Web Frontend: Vue
+**Programming Skills**: Cpp, Python, Web Frontend: Vue.
 
-**Languages**: Chinese(Native), English(Fluent), Japanese(Amateur)
+**Languages**: Chinese (Native), English (Fluent), Japanese (Amateur).
 
 **Interests**: Paleobiology, History of the World War II, Sid Meier's Civilization VI, etc.
