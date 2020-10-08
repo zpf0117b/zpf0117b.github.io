@@ -1,5 +1,4 @@
 # Dependencies
-markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
@@ -9,7 +8,7 @@ relative_permalinks: false
 # Setup
 title:            'Pengfei Zhang'
 tagline:          'Pengfei'
-description:      '<p>Senior Undergraduate Student<br>School of Computer Science,University of Science and Technology of China,Hefei, Anhui.</p>
+description:      '<p>Undergraduate<br>School of Computer Science, University of Science and Technology of China (USTC), Hefei, China.</p>
                    <p><a href="mailto:zpf0117b@mail.ustc.edu.cn">zpf0117b@mail.ustc.edu.cn</a></p>'
 url:              http://zpf0117b.github.io
 baseurl:          /
@@ -22,4 +21,4 @@ version:          2.1.0
 github:
   repo:           https://github.com/poole/hyde
 
-theme: jekyll-theme-minimal
+theme:            jekyll-theme-minimal
