@@ -1,8 +1,8 @@
 ### Education
 
-**University of Science and Technology of China, School of Computer Science**
+**University of Science and Technology of China (USTC, Hefei, China), School of Computer Science**
 - Since Sep. 2018 (Transfered my major from life sciences to computer science) \| Overall GPA: 3.44/4.3
-- Honors/Awards: 
+- Honors/Awards:
   - National Encouragement Scholarship, 2018
   - Third Prize of Outstanding Freshmen Scholarship at USTC, 2017
 
