@@ -35,7 +35,6 @@
 
 **MIT Course Project**
 - **MIT 6.034: Artificial Intelligence** - *From Mar. 2020 to Aug. 2020*
-- **MIT 6.829: Computer Networks** - *From Sept. 2019 to Jan. 2020*
 
 ***
 
