@@ -40,7 +40,7 @@
 
 ### Miscellaneous
 
-**Programming Skills**: Cpp, Python, Web Frontend: Vue.
+**Programming Skills**: Cpp, Python, Matlab, Web Frontend: Vue.
 
 **Languages**: Chinese (Native), English (Fluent), Japanese (Amateur).
 
