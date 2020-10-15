@@ -27,10 +27,10 @@
 
 **USTC Course Project**
 - Database - <a href="https://github.com/zpf0117b/BankingManagementSystem">Banking Management System</a>
-  - Tool: Python \| flask, pandas-profiling, etc \| VSCode \| Bootstrap 
+  - Tools: Python \| flask, pandas-profiling, etc \| VSCode \| Bootstrap 
   - Jun. 2020
 - Compiling - Minipy: a simplified compiler which could parse python
-  - Tool: C++ \| flex, bison \| VSCode
+  - Tools: C++ \| flex, bison \| VSCode
   - From Nov. 2019 to Dec. 2019
 
 **MIT Course Project**
