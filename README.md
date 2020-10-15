@@ -26,7 +26,7 @@
 ### PROJECTS
 
 **USTC Course Project**
-- Database - <a href="https://github.com/zpf0117b/BankingManagementSystem">Banking Management Systen</a>
+- Database - <a href="https://github.com/zpf0117b/BankingManagementSystem">Banking Management System</a>
   - Tool: Python \| flask, pandas-profiling, etc \| VSCode \| Bootstrap 
   - Jun. 2020
 - Compiling - Minipy: a simplified compiler which could parse python
