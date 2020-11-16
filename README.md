@@ -11,7 +11,7 @@
 ### Research Experience
 
 **Undergraduate innovation and entrepreneurship project**
-- Project: Machine learning for COVID-19 development prediction
+- Project: Artificial intelligence and machine learning to predict progression in COVID-19
 - I currently collaborate with <a href="http://staff.ustc.edu.cn/~linlixu/">Linli Xu's laboratory</a>, but just start, hoping for more guidance.
 
 **Undergraduate Research Intern** in **Precise Pervasive Lab**
